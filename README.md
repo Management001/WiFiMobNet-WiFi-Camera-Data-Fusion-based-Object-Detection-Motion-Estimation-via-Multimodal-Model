@@ -2,6 +2,7 @@
 
 * This repository is a part of a WiFi signal-based human detection and motion estimation project in initial phase.
 * The goal of our research is to develop technology to recognize and track objects beyond walls utilizing WiFi signals in the IEEE standards.
+* An approach that additionally utilizes WiFi signals can complement problems such as obstacles and object obscuration that occur in existing camera-based security and computer vision through the signal's permeability characteristics. Personally, I hope that this approach and research will be further activated as a practical way to prevent crime in areas where CCTV deployment is limited for privacy reasons.
 * Our data-pair acquition toolkit was uploaded on [IEEE-802.11n-CSI-Camera-Synchronization-Toolkit](https://github.com/FIVEYOUNGWOO/IEEE-802.11n-CSI-Camera-Synchronization-Toolkit).
 
 # Project Members
