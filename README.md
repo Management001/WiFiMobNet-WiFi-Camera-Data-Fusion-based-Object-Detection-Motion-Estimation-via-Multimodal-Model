@@ -4,7 +4,7 @@
 * The goal of our research is to develop technology to recognize and track objects beyond walls utilizing WiFi signals in the IEEE standards.
 * Our data-pair acquition toolkit was uploaded on [IEEE-802.11n-CSI-Camera-Synchronization-Toolkit](https://github.com/FIVEYOUNGWOO/IEEE-802.11n-CSI-Camera-Synchronization-Toolkit).
 
-* Finally, we plan to multiple edge-based federated multi-modal approachs to expand this project with Prof. Ramesh Rao from Qualcomm institue.
+* Finally, we plan to multiple edge-based federated multi-modal approachs to expand this project with [Prof. Ramesh Rao](https://scholar.google.co.kr/citations?user=l-WGj3AAAAAJ&hl=ko&oi=ao) from [Qualcomm institue](https://qi.ucsd.edu/about/leadership/).
 
 # Project Members
 #### [Youngwoo Oh (M.S. student, Project leader from May 2023 to Feb. 2024 (for 9 months))](https://ohyoungwoo.com/)
