@@ -13,8 +13,9 @@
 - Responsible for data fusion and SW/HW configuration.
 - Reproduced a Teacher-Student approach to robustly detect and track objects beyond walls and obstacles.
 - Wrote papers for the [2024 Winter Conference on Korea Information and Communications Society (KICS)](https://conf.kics.or.kr/) titled "*Collection and Analysis of CSI in IEEE 802.11n Wireless LAN Environments for WiFi Signal-Based Human Mobility Detection (special session)*" and "*Design and Implementation of a Multi-Modal Learning Model for RF-Based Object Tracking Methods (recent results)*".
-- Wrote 2023,2024 R&D proposal related to this project. Our team plan to "*multiple edge-based multi-modal federated learning approachs*" to expand this project with [Prof. Ramesh Rao](https://scholar.google.co.kr/citations?user=l-WGj3AAAAAJ&hl=ko&oi=ao) from [Qualcomm institue](https://qi.ucsd.edu/about/leadership/). Expect to this approach get benefit a diversity data-paired samples, training efficient, and zero-configuration on similar scenario and space.
-- Suggested our future work and planning such as cloud-edge arhietecture-based federated multimodal learning, multiple Teacher-Student network AI modeling, and computing board-based edge device configulation to our team.
+- Wrote 2023,2024 R&D proposal related to this project. Our team plan to "*multiple edge-based multi-modal federated learning approachs*" to expand this project with [Prof. Ramesh Rao](https://scholar.google.co.kr/citations?user=l-WGj3AAAAAJ&hl=ko&oi=ao) from [Qualcomm institue](https://qi.ucsd.edu/about/leadership/).
+- Expect to extended federated-multimodal approach get benefit a diversity data-paired samples, training efficient, and zero-configuration on similar scenario and space. Suggested our future work and planning such as cloud-edge arhietecture-based federated multimodal learning, multiple Teacher-Student network AI modeling, and computing board-based edge device configulation to our team.
+- Considered a [Up-board](https://up-board.org/up/specifications/)-based multiple edge configulation, which can support a compatiable Intel WiFi LAN 5300 (IWL 5300).
 
 #### Islam Helemy (Ph.D. student, Project member)
 - Responsible for the development of the Multi-modal AI and the pre-processing to generate training data pairs (CSI samples-captured images).
